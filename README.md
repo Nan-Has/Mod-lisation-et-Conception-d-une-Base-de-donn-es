@@ -3,4 +3,4 @@ Ce projet nous permettra de connaître en détail comment modéliser un système
 -Etablir premièrement un modèle conceptuel de données 
 -Deuxièmement le modèle logique de données
 -Ensuite le modèle physique de données
--Et par la fin l'implementation de ces données dans une base de donées
+-Et par la fin l'implementation de ces données dans une base de donées.
